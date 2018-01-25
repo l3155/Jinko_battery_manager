@@ -1,0 +1,23 @@
+{
+    "code":0,
+    "msg":"",
+    "count":12,
+    "data":[
+        {
+            "receiver":"receiver001",
+            "receiver_sn":"8a7d06e8-ddb0-11e7-8000-985aeb8a5c94",
+            "voltage_upper":"25",
+            "voltage_lower":"20",
+            "temp_upper":"25",
+            "temp_lower":"19"
+        },
+        {
+            "receiver":"receiver002",
+            "receiver_sn":"sn002",
+            "voltage_upper":"25",
+            "voltage_lower":"20",
+            "temp_upper":"25",
+            "temp_lower":"20"
+        }
+    ]
+}

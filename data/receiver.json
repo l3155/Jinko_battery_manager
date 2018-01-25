@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 6,
+  "data": [
+  	{"id":1,"name":"receiver001"},
+  	{"id":2,"name":"receiver002"},
+  	{"id":3,"name":"receiver003"}
+  ]
+}
